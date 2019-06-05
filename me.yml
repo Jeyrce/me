@@ -1,0 +1,85 @@
+# 从这里修改文件比较简单
+
+title: jeeyshe-个人简历
+icon: https://www.lujianxin.com/static/image/favicon.ico
+keywords: 个人简历、陆鉴鑫、web简历、Python开发、后端工程师、jeeyshe
+description: 一个假装文艺的Python后端程序员
+
+banner:
+  images:
+    - images/header-image/header-bg1.jpg
+    - images/header-image/header-bg2.jpg
+    - images/header-image/header-bg3.jpg
+    - images/header-image/header-bg4.jpg
+  desc:
+    title: 我叫jeeyshe(陆鉴鑫)
+    detail: 后端开发工程师，毕业于<a href="http://www.huat.edu.cn/" target="_blank">湖北汽车工业学院</a>，2019.05~至今在<a href="http://www.woqutech.com/" target="_blank">杭州沃趣科技</a>工作。
+
+aboutme:
+  lines:
+    - 我是来自深圳的前端开发工程师，2014年的中山大学软件工程本科毕业生，2014年4月份开始第一份前端开发工作，至今已经有两年多前端开发经验。
+    - 有着坚实的前端开发基础，并且一直保持对新技术的学习热情。熟练使用HTML5、CSS3以及JavaScript(jQuery,Zepto)；对流行的前端开发框架，比如Bootstrap3和Foundation5都有实际开发项目；能熟练使用前端开发工具，比如Gulp.js、Seajs、WebPack和Less等等；学习了AngularJS和React，但更加喜欢轻巧、高性能、可组件化的MVVM框架Vue.js，并在实际的开发项目中使用；学习了Node.js(Express)、ECMAScript6，MongoDB等技术，希望在往后的开发项目中得到实践提升。这里是<a href="https://github.com/cody1991/learn">自己的前端开发记录</a> 。后面也有新的前端开发实习生加入团队，锻炼了一定的管理能力。
+    - 爱读书，爱听歌，爱游泳，爱跑步，爱爬山。代码不是生活的全部。
+  links:
+    - url: https://www.lujianxin.com 
+      title: 我的个人博客
+    - url: https://github.com 
+      title: 我的github
+    - url: https://dev.tencent.com 
+      title: 腾讯云
+
+skill:
+  desc: 前端开发需要一个持续和长期的学习，需要在各种领域都有充足的知识储备，需要对新技术的学习保持热情。前端开发工程师技术栈中最重要的就是原生JavaScript，《JavaScript高级编程》和《Javascript权威指南》都通读了几遍，最近重新拜读《JavaScript语言精粹》一书。
+  skills:
+    - name: HTML 
+      percent: 85
+    - name: Python 
+      percent: 85
+    - name: JS 
+      percent: 85
+    - name: Go 
+      percent: 85
+
+exprience:
+  desc: 2014年6月，毕业于中山大学，2014年4月开始了自己的前端开发工程师生涯。第一家的时候自己还是一个职场新人，主要是在实际项目中不断学习，提升自己的前端开发技能和经验。第二家的时候自己作为公司唯一的一个前端开发工程师，负责公司所有前端开发任务，其后有个前端开发实习生加入团队，在一边认真有质量地完成公司任务以为，带领实习生一起进行学习。
+  works:
+    - start: 2018-07 
+      end: 至今 
+      company: 腾讯科技（深圳）有限公司 
+      job: 前端开发工程师 
+      detail: 从事后端开发，版本迭代。。。。。
+    - start: 2018-07 
+      end: 至今 
+      company: 腾讯科技（深圳）有限公司 
+      job: 前端开发工程师 
+      detail: 从事后端开发，版本迭代。。。。。
+    - start: 2018-07 
+      end: 至今 
+      company: 腾讯科技（深圳）有限公司 
+      job: 前端开发工程师 
+      detail: 从事后端开发，版本迭代。。。。。
+
+program:
+  desc: 下面包括了自己的开源项目，公司项目，推荐的网站等。
+  programs:
+    - name: 个人博客 
+      link: https://www.lujianxin.com 
+      desc: 因为想要自己前端开发学习中的所得所想以及碰到的有用的前端开发工具分享出来，就通过GitHub Pages和Jekyll从零开始搭建出了自己的个人博客，包含了Vue.js教程、Gulp.js教程、Sublime Text、GitHub Pages搭建等等博客。
+    - name: 个人博客 
+      link: https://www.lujianxin.com 
+      desc: 因为想要自己前端开发学习中的所得所想以及碰到的有用的前端开发工具分享出来，就通过GitHub Pages和Jekyll从零开始搭建出了自己的个人博客，包含了Vue.js教程、Gulp.js教程、Sublime Text、GitHub Pages搭建等等博客。
+    - name: 个人博客 
+      link: https://www.lujianxin.com 
+      desc: 因为想要自己前端开发学习中的所得所想以及碰到的有用的前端开发工具分享出来，就通过GitHub Pages和Jekyll从零开始搭建出了自己的个人博客，包含了Vue.js教程、Gulp.js教程、Sublime Text、GitHub Pages搭建等等博客。
+
+contact:
+  email: jeeyshe@gmail.com
+  mobile: +86 17600222287
+  page: https://www.lujianxin.com
+  github: https://github.com/jeeyshe
+
+footer:
+  lines:
+    - 你会成为我的伯乐么？
+  home: https://www.lujianxin.com/
+
