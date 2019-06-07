@@ -2,7 +2,7 @@
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 400;
-    src: url("../fonts/cJZKeOuBrn4kERxqtaUH3fY6323mHUZFJMgTvxaG2iE.eot");
+    src: url("../font/cJZKeOuBrn4kERxqtaUH3fY6323mHUZFJMgTvxaG2iE.eot");
     src: local('Open Sans'), local('OpenSans'), url("../font/cJZKeOuBrn4kERxqtaUH3fY6323mHUZFJMgTvxaG2iE.eot") format('embedded-opentype'), url("../font/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff") format('woff');
 }
 
@@ -53,7 +53,7 @@ p {
     font-size: 15px;
     line-height: 27px;
     font-weight: 400;
-    padding-bottom: 38px;
+    /*padding-bottom: 38px;*/
     margin: 0px;
 }
 
@@ -373,6 +373,10 @@ header {
     // padding-left: 48px;
 }
 
+.aboutmeLinks {
+    text-align: center;
+}
+
 #description {
     // height: 250px;
     overflow: hidden;
@@ -565,7 +569,7 @@ header {
 
 .workYear span {
     display: block;
-    font-size: 18pxpx;
+    font-size: 18px;
     padding: 0 21px;
     white-space: nowrap;
     float: right;
@@ -667,7 +671,7 @@ header {
     color: #897f8a;
     font-size: 15px;
     line-height: 27px;
-    padding-bottom: 38px;
+    /*padding-bottom: 38px;*/
 }
 
 .refBoxcon h3 {

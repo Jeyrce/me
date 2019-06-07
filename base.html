@@ -97,9 +97,11 @@
                         {% endfor %}
                     </div>
                     <!--地址连接-->
-                    {% for link in aboutme.links %}
-                        <a href="{{ link.url }}" class="btnDownload" target="_blank">{{ link.title }}</a>
-                    {% endfor %}
+                    <div class="aboutmeLinks">
+                        {% for link in aboutme.links %}
+                            <a href="{{ link.url }}" class="btnDownload" target="_blank">{{ link.title }}</a>
+                        {% endfor %}
+                    </div>
                 </div>
             </div>
         </div>
@@ -164,8 +166,8 @@
                 {% for item in program.programs %}
                     <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 refBox">
                     <div class="refBoxcon">
-                        <p>{{ item.desc }}</p>
                         <h3><a href="{{ item.link }}" target="_blank">{{ item.name }}</a></h3>
+                        <br><p>{{ item.desc }}</p>
                     </div>
                 </div>
                 {% endfor %}
@@ -184,11 +186,8 @@
     <section class="contactDetails">
         <div class="container">
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                <h4>联系方式</h4>
                 <p><i class="icon icon-envelope"></i><a>{{ contact.email }}</a></p>
-                <p><i class="icon icon-envelope"></i><a>{{ contact.mobile }}</a></p>
                 <p><i class="icon icon-link"></i><a href="{{ contact.page }}" target="_blank">{{ contact.page }}</a></p>
-                <p><i class="icon icon-link"></i><a href="{{ contact.github }}" target="_blank">{{ contact.github }}</a></p>
             </div>
         </div>
     </section>
@@ -198,9 +197,9 @@
             {% for line in footer.lines %}
             <div style="text-align: center"><p>{{ line }}</p></div>
             {% endfor %}
-            <ul>
-                <li><a href="{{ footer.home }}" target="_blank"><i class="icon icon-github icon-2x"></i></a></li>
-            </ul>
+<!--            <ul>-->
+<!--                <li><a href="{{ footer.home }}" target="_blank"><i class="icon icon-github icon-2x"></i></a></li>-->
+<!--            </ul>-->
             <!--回到顶部-->
             <span class="totop"><i class="icon icon-chevron-up"></i></span>
         </div>
