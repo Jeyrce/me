@@ -16,20 +16,20 @@
 
 爱读书，爱听歌，爱骑车，爱桌球。代码不是生活的全部。
 
-其他
+生成自己的简历的方法
 ---
 
+### Linux下
+
+- 修改me.yml文件
+
+- 一键生成
+
+```
+./make-linux-x86_64
+```
+
+之后会发现多了一个index.html文件，打开它就看见你自己刚才修改完的简历了
+
+
 欢迎开发者自行修改发布
-
-```
-# 克隆代码
-git clone git@github.com:jeeyshe/me.git
-
-# 修改me.yaml文件
-
-# 生成自己的静态页
-python make.py
- 
-```
-
-之后你能够看到一个index.html文件，可以拿去github pages 或者coding pages 或者自行购买服务器都可快速发布
