@@ -85,6 +85,9 @@ exprience:
 program:
   desc: 下面包括了自己的开源项目，公司项目，推荐的网站等。<br><b>出于职业道德和法律约束，部分项目无法访问，请见谅！</b>
   programs:
+    - name: QData-Cloud私有云管理平台
+      link: 'javascript: void(0);'
+      desc: 沃趣科技QData产品web管理平台，由tornado框架构建而成。基于web页面我们可对oracle数据库一体机进行集群管理，监控可视化，告警配置等操作，极大提高了运维效率。
     - name: 基于opencv的无人货柜人脸识别系统
       link: 'javascript: void(0);'
       desc: 采用opencv + baidu-aip + pyqt5和平板电脑，实现了用户注册账户并录入人脸后, 无需携带手机, 刷脸即可在无人货柜开门购物, 关门自动结算。产品已经成功在2019第七届中国(广州)国际自助售货系统与设施博览会展出, 获得了良好的评价。
