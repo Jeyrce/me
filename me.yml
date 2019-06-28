@@ -7,6 +7,21 @@ icon: https://www.lujianxin.com/static/image/favicon.ico
 keywords: 个人简历、陆鉴鑫、web简历、Python开发、后端工程师、jeeyshe
 description: 一个假装文艺的Python后端程序员
 
+# seo平台验证
+seo:
+  - key: baidu-site-verification
+    value: 8VnRCQnw7Z
+  - key: shenma-site-verification
+    value: ed5d4e80c572827fbe7613c32ef4c1be_1561717247
+  - key: 360-site-verification
+    value: 37c5d131d288d26f5091b1f25eb28c48
+  - key: sogou_site_verification
+    value: FxLjWABP4A
+  - key: msvalidate.01
+    value: 725274B06FEC1DAE34DA835E37A6D5D5
+  - key: google-site-verification
+    value: C2ujkHLAjxkyD2SXrnXNeoZum0YsZcl832GvR3XBTw4
+
 # --------------------------------轮播图---------------------------------
 banner:
   images:
