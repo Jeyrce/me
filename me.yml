@@ -2,7 +2,7 @@
 # push到coding自动更新pages, 在线地址为: https://me.lujianxin.com/
 
 # --------------------------------header部分---------------------------------
-title: jeeyshe-陆鉴鑫-个人简历
+title: Jeeyshe-陆鉴鑫-个人简历
 icon: https://www.lujianxin.com/static/image/favicon.ico
 keywords: 个人简历、陆鉴鑫、web简历、Python开发、后端工程师、jeeyshe
 description: 一个假装文艺的Python后端程序员
@@ -31,7 +31,7 @@ banner:
     - images/header-image/header-bg3.jpg
     - images/header-image/header-bg4.jpg
   desc:
-    title: 我叫jeeyshe(陆鉴鑫)
+    title: 我叫Jeeyshe(陆鉴鑫)
     detail: 后端开发工程师，毕业于<a href="http://www.huat.edu.cn/" target="_blank">湖北汽车工业学院</a>，2019.05~至今在<a href="http://www.woqutech.com/" target="_blank">杭州沃趣科技</a>工作。
 
 # --------------------------------关于我---------------------------------
@@ -101,7 +101,7 @@ exprience:
 program:
   desc: 下面包括了自己的开源项目，公司项目，推荐的网站等。<br><b>出于职业道德和法律约束，部分项目无法访问，请见谅！</b>
   programs:
-    - name: QData-Cloud私有云管理平台
+    - name: QData-Cloud数据库一体机运维平台
       link: 'javascript: void(0);'
       desc: 沃趣科技QData产品web管理平台，由tornado框架构建而成。基于web页面我们可对oracle数据库一体机进行集群管理，监控可视化，告警配置等操作，极大提高了运维效率。
     - name: 基于opencv的无人货柜人脸识别系统
@@ -122,7 +122,7 @@ program:
 
 # --------------------------------联系方式---------------------------------
 contact:
-  email: jeeyshe@gmail.com
+  email: Jeeyshe@gmail.com
   page: https://www.lujianxin.com/
 
 # --------------------------------网站底部---------------------------------
