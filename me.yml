@@ -2,10 +2,10 @@
 # push到coding自动更新pages, 在线地址为: https://me.lujianxin.com/
 
 # --------------------------------header部分---------------------------------
-title: Jeeyshe-陆鉴鑫-个人简历
+title: Jeyrce-陆鉴鑫-个人简历
 icon: https://www.lujianxin.com/static/image/favicon.ico
-keywords: 个人简历、陆鉴鑫、web简历、Python开发、后端工程师、jeeyshe
-description: 一个假装文艺的Python后端程序员
+keywords: 个人简历、陆鉴鑫、web简历、Python开发、go开发、后端工程师、Jeyrce
+description: 一个假装文艺的后端程序员
 
 # seo平台验证
 seo:
@@ -38,15 +38,15 @@ banner:
 aboutme:
   lines:
     - 我是来自杭州的后端开发工程师，2014届湖北汽车工业学院电子信息工程专业本科毕业生，大四有过半年的实习经历，2018年6月份开始第一份后端开发工作，至今已经有两年后端开发经验。
-    - 有着坚实的后端开发基础，并且一直保持对新技术的学习热情。主要开发语言为Python和Golang，熟悉django、flask、tornado、beego等主流web框架，熟悉mysql、redis、monodb、oracle使用，了解Vue、jQuery、Bootstrap等前端常用框架；目前正在更加深入的学习编程底层原理、数据库技术、数据分析和可视化技术。
+    - 有着坚实的后端开发基础，并且一直保持对新技术的学习热情。主要开发语言为Python和Golang，熟悉django、flask、tornado、beego、gin等主流web框架，熟悉mysql、redis、monodb、oracle使用，了解Vue、jQuery、Bootstrap等前端常用框架；目前正在更加深入的学习编程底层原理、数据库技术、数据分析和可视化技术。
     - 爱骑车、桌球、下棋、读写博客、听音乐、公益，代码不是生活的全部。
   links:
     - url: https://www.lujianxin.com/
       title: 个人博客
-    - url: https://github.com/jeeyshe
+    - url: https://github.com/Jeyrce
       title: github
-    - url: https://dev.tencent.com/u/lujianxin/
-      title: coding
+    - url: https://me.lujianxin.com/
+      title: web简历
 
 # --------------------------------技能---------------------------------
 skill:
@@ -60,6 +60,8 @@ skill:
       percent: 75
     - name: MySQL
       percent: 70
+    - name: Prometheus、Alertmanager、Grafana
+      percent: 80
     - name: Redis、Mongodb
       percent: 70
     - name: request、socket、urllib
@@ -76,6 +78,8 @@ skill:
       percent: 40
     - name: Beego
       percent: 30
+    - name: Gin
+      percent: 40
 
 # --------------------------------工作经历---------------------------------
 exprience:
@@ -85,7 +89,7 @@ exprience:
       end: 至今
       company: 杭州沃趣科技股份有限公司
       job: 后端开发工程师
-      detail: 沃趣科技技术领域涉及Oracle、MySQL、PostgreSQL等数据库云平台架构和超融合云平台架构，主要产品包括：QData Cloud数据库私有云平台、QFusion企业超融合云平台、QPlus数据库秒级备份恢复云平台。
+      detail: 主要负责QDataCloud监控告警模块负责人，通过Promtheus、Alertmanager、Grafana、Loki等组件集成和二次开发，实现服务器软硬件的监控告警，参与运维平台功能开发等。获2020年度“百折不挠奖”。
     - start: 2018-06
       end: 2019-03
       company: 杭州麦杰思物联网科技有限公司
@@ -122,7 +126,7 @@ program:
 
 # --------------------------------联系方式---------------------------------
 contact:
-  email: Jeeyshe@gmail.com
+  email: Jeyrce@gmail.com
   page: https://www.lujianxin.com/
 
 # --------------------------------网站底部---------------------------------
