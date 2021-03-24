@@ -2,7 +2,7 @@
 # push到coding自动更新pages, 在线地址为: https://me.lujianxin.com/
 
 # --------------------------------header部分---------------------------------
-title: Jeyrce-陆鉴鑫-个人简历
+title: Jeyrce.Lu-陆鉴鑫-个人简历
 icon: https://www.lujianxin.com/static/image/favicon.ico
 keywords: 个人简历、陆鉴鑫、web简历、Python开发、go开发、后端工程师、Jeyrce
 description: 一个假装文艺的后端程序员
@@ -82,7 +82,7 @@ skill:
       percent: 40
 
 # --------------------------------工作经历---------------------------------
-exprience:
+experience:
   desc: 2018年6月，毕业于湖北汽车工业学院，从此开始了自己的后端开发工程师生涯。第一家的时候自己还是一个职场新人，主要是在实际项目中不断学习，提升自己的后端开发技能和经验。第二家便是如今所在单位：杭州沃趣科技。我很喜欢沃趣积极向上、务实高效、学习氛围浓厚的工作环境，希望我和沃趣一起成长。
   works:
     - start: 2019-05

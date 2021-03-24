@@ -514,27 +514,27 @@ header {
  8. Work Experience Style
 ------------------------------------------------------*/
 
-.exprience {
+.experience {
     background: #f8f7f8;
 }
 
-.exprience .container {
+.experience .container {
     padding-top: 140px;
     padding-bottom: 90px;
 }
 
-.exprience h2 {
+.experience h2 {
     color: #5b4c5c;
     margin-bottom: 41px;
 }
 
-.exprience p {
+.experience p {
     color: #84868d;
     /*font-size:13px;*/
     line-height: 18px;
 }
 
-.exprience .heading p {
+.experience .heading p {
     padding-bottom: 54px;
     max-width: 660px;
     text-align: justify;
@@ -544,7 +544,7 @@ header {
     line-height: 27px;
 }
 
-.exprience h4 {
+.experience h4 {
     font-weight: 700;
 }
 
@@ -630,22 +630,22 @@ header {
 
 
 /*----------------------------------------------------
- 14. Reffernces Style
+ 14. references Style
 ------------------------------------------------------*/
 
-.reffernces {}
+.references {}
 
-.reffernces .container {
+.references .container {
     padding-top: 140px;
     padding-bottom: 90px;
 }
 
-.reffernces h2 {
+.references h2 {
     color: #5b4c5c;
     margin-bottom: 49px;
 }
 
-.reffernces .heading p {
+.references .heading p {
     padding-bottom: 41px;
     max-width: 660px;
     text-align: center;
@@ -653,7 +653,7 @@ header {
     margin: 0 auto;
 }
 
-.reffernces p {
+.references p {
     color: #897f8a
 }
 

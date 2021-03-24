@@ -2,7 +2,7 @@
 ---
 
 - 这是我的web版个人简历， **目前在职中，无求职意向**
-- 在线地址：[http://me.lujianxin.com](https://me.lujianxin.com)
+- 在线地址：[https://me.lujianxin.com](https://me.lujianxin.com)
 - 觉得不错的的话，给个star吧， 欢迎各位fork进行修改得到自己的简历
 
 ---
@@ -23,13 +23,13 @@
 
 ```
 # 克隆代码
-git clone git@github.com:jeeyshe/me.git
+git clone https://github.com/Jeyrce/me.git
 
 # 修改me.yaml文件
 
 # 生成自己的静态页
 python make.py
- 
+
 ```
 
 之后你能够看到一个index.html文件，可以拿去github pages 或者coding pages 或者自行购买服务器都可快速发布

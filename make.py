@@ -4,17 +4,15 @@
 """
 #=============================================================================
 # FileName: make.py
-# Desc: 使用jiaja2从yal读取信息生成静态页面
-# Author: lujianxin
-# Email: jeeyshe@gmail.com
-# HomePage: www.lujianxin.com
-# Version: 7.0.0
+# Desc: 使用jinja2从yml读取信息生成静态页面
+# Author: Jeyrce.Lu
+# Email: Jeyrce@gmail.com
+# HomePage: https://www.lujianxin.com
 # Created: 2019/6/5 下午9:51
 #=============================================================================
 """
 
 import os
-import json
 
 import yaml
 from jinja2 import Template
